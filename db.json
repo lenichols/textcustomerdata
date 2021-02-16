@@ -1,101 +1,101 @@
 {
-'alerts': {
-  '000387266': [
+"alerts": {
+  "000387266": [
     {
-      alertNumber: '004',
-      alertProcessOne: '10:10 AM',
-      alertProcessTwo: '10:26 AM',
-      alertProcessThree: '10:33 AM',
-      customerPhone: '415-300-0091'
+      alertNumber: "004",
+      alertProcessOne: "10:10 AM",
+      alertProcessTwo: "10:26 AM",
+      alertProcessThree: "10:33 AM",
+      customerPhone: "415-300-0091"
     },
     {
-      alertNumber: '003',
-      alertProcessOne: '09:41 AM',
-      alertProcessTwo: '10:01 AM',
-      alertProcessThree: '10:10 AM',
-      customerPhone: '916-999-3360'
+      alertNumber: "003",
+      alertProcessOne: "09:41 AM",
+      alertProcessTwo: "10:01 AM",
+      alertProcessThree: "10:10 AM",
+      customerPhone: "916-999-3360"
     },
     {
-      alertNumber: '002',
-      alertProcessOne: '09:37 AM',
-      alertProcessTwo: '10:04 AM',
-      alertProcessThree: '10:22 AM',
-      customerPhone: '213-515-2710'
+      alertNumber: "002",
+      alertProcessOne: "09:37 AM",
+      alertProcessTwo: "10:04 AM",
+      alertProcessThree: "10:22 AM",
+      customerPhone: "213-515-2710"
     },
     {
-      alertNumber: '001',
-      alertProcessOne: '09:03 AM',
-      alertProcessTwo: '09:25 AM',
-      alertProcessThree: '10:01 AM',
-      customerPhone: '510-720-1110'
+      alertNumber: "001",
+      alertProcessOne: "09:03 AM",
+      alertProcessTwo: "09:25 AM",
+      alertProcessThree: "10:01 AM",
+      customerPhone: "510-720-1110"
     }
   ],
-  '110928873': [
+  "110928873": [
     {
-      alertNumber: '053',
-      alertProcessOne: '10:10 AM',
-      alertProcessTwo: '10:26 AM',
-      alertProcessThree: '10:33 AM',
-      customerPhone: '510-421-1000'
+      alertNumber: "053",
+      alertProcessOne: "10:10 AM",
+      alertProcessTwo: "10:26 AM",
+      alertProcessThree: "10:33 AM",
+      customerPhone: "510-421-1000"
     },
     {
-      alertNumber: '052',
-      alertProcessOne: '09:41 AM',
-      alertProcessTwo: '10:01 AM',
-      alertProcessThree: '10:10 AM',
-      customerPhone: '916-865-8766'
+      alertNumber: "052",
+      alertProcessOne: "09:41 AM",
+      alertProcessTwo: "10:01 AM",
+      alertProcessThree: "10:10 AM",
+      customerPhone: "916-865-8766"
     },
     {
-      alertNumber: '051',
-      alertProcessOne: '09:37 AM',
-      alertProcessTwo: '10:04 AM',
-      alertProcessThree: '10:22 AM',
-      customerPhone: '707-901-8810'
+      alertNumber: "051",
+      alertProcessOne: "09:37 AM",
+      alertProcessTwo: "10:04 AM",
+      alertProcessThree: "10:22 AM",
+      customerPhone: "707-901-8810"
     },
     {
-      alertNumber: '050',
-      alertProcessOne: '09:03 AM',
-      alertProcessTwo: '09:25 AM',
-      alertProcessThree: '10:01 AM',
-      customerPhone: '707-330-3000'
+      alertNumber: "050",
+      alertProcessOne: "09:03 AM",
+      alertProcessTwo: "09:25 AM",
+      alertProcessThree: "10:01 AM",
+      customerPhone: "707-330-3000"
     }
   ]
 },
-'settings': {
+"settings": {
   "110928873": [
     {
-      colName: 'alertNumber',
-      title: 'Order #',
-      width: '80'
+      colName: "alertNumber",
+      title: "Order #",
+      width: "80"
     },
     {
-      colName: 'alertLink',
-      title: '',
-      width: '200'
+      colName: "alertLink",
+      title: "",
+      width: "200"
     },
     {
-      colName: 'alertProcessOne',
-      title: 'Checkout Time',
-      width: '250'
+      colName: "alertProcessOne",
+      title: "Checkout Time",
+      width: "250"
     },
     {
-      colName: 'alertProcessTwo',
-      title: 'Ready Time',
-      width: '250'
+      colName: "alertProcessTwo",
+      title: "Ready Time",
+      width: "250"
     },
     {
-      colName: 'alertProcessThree',
-      title: 'Pickup Time',
-      width: '250'
+      colName: "alertProcessThree",
+      title: "Pickup Time",
+      width: "250"
     },
     {
-      colName: '',
-      title: '',
-      width: ''
+      colName: "",
+      title: "",
+      width: ""
     }
   ]
  },
- 'profile': {
-      'name': 'typicode'
+ "profile": {
+      "name": "typicode"
  }
 }

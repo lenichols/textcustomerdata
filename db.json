@@ -1,20 +1,6 @@
 {
-"posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-],
-"alerts": {
-  "000387266": [
+'alerts': {
+  '000387266': [
     {
       alertNumber: '004',
       alertProcessOne: '10:10 AM',
@@ -44,7 +30,7 @@
       customerPhone: '510-720-1110'
     }
   ],
-  "110928873": [
+  '110928873': [
     {
       alertNumber: '053',
       alertProcessOne: '10:10 AM',
@@ -75,7 +61,7 @@
     }
   ]
 },
-"settings": {
+'settings': {
   "110928873": [
     {
       colName: 'alertNumber',
@@ -109,7 +95,7 @@
     }
   ]
  },
- "profile": {
-      "name": "typicode"
- },
+ 'profile': {
+      'name': 'typicode'
+ }
 }
